@@ -71,6 +71,7 @@ function NavLinks({ mobile, scrollToSection }: {
     { href: "home", text: "Home" },
     { href: "about", text: "About" },
     { href: "experience", text: "Experience" },
+    { href: "sample-work", text: "Sample Work" },
   ];
 
   return (
