@@ -11,7 +11,7 @@ export const SampleWork = () => {
       image: ecommerceSample,
       technologies: ['Angular', 'TypeScript', 'Tailwind CSS'],
       demoUrl: 'https://ecommerce-store-sample.netlify.app/',
-      githubUrl: 'https://github.com/yourusername/plant-shop',
+      githubUrl: 'https://github.com/deianradev/ecommerce-sample',
     },
     {
       id: 'task-manager',
