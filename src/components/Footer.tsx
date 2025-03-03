@@ -27,7 +27,14 @@ export const Footer = () => {
               <a href="#about" className="text-gray-400 hover:text-accent-cyan transition-colors text-sm sm:text-base">About</a>
               <a href="#experience" className="text-gray-400 hover:text-accent-cyan transition-colors text-sm sm:text-base">Experience</a>
               <a href="#sample-work" className="text-gray-400 hover:text-accent-cyan transition-colors text-sm sm:text-base">Sample Work</a>
-              <a href="/resume.pdf" className="text-gray-400 hover:text-accent-cyan transition-colors text-sm sm:text-base">Resume</a>
+              <a 
+                href="https://docs.google.com/document/d/1cGflsNbM7useAucWQay3eu_wEub9jj71pMHM5a9l-RY/edit?usp=sharing"
+                className="text-gray-400 hover:text-accent-cyan transition-colors text-sm sm:text-base"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Resume
+              </a>
             </div>
           </div>
 

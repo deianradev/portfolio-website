@@ -38,9 +38,10 @@ export function Hero() {
                 </span>
               </a>
               <a 
-                href="/resume.pdf" 
+                href="https://docs.google.com/document/d/1cGflsNbM7useAucWQay3eu_wEub9jj71pMHM5a9l-RY/edit?usp=sharing" 
                 className="group border border-accent-purple text-accent-purple hover:bg-accent-purple hover:text-white px-8 py-3 rounded-full transition-all duration-300"
-                download
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Download CV
               </a>
